@@ -1,3 +1,4 @@
 Resolusi
 
 - Nilai bagus
+- Belajar react
