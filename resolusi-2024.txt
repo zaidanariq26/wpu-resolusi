@@ -1,4 +1,4 @@
 Resolusi
 
 - Nilai bagus
-- Belajar react
+- Belajar kotlin
